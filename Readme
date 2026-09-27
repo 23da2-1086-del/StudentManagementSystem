@@ -92,10 +92,17 @@ Responsibility: Student records and linked list implementation
 Contribution: [Describe actual work done]
 
 **Member 2**
-Name: [Name]
-Student ID: [Student ID]
+
+Name: MSM SANEEJ
+Student ID: 23DA2-0962
 Responsibility: Stack and queue implementation
-Contribution: [Describe actual work done]
+
+Contribution:
+- Implemented and tested ActionStack.java for recent system actions using LIFO.
+- Implemented and tested ServiceQueue.java for student service requests using FIFO.
+- Implemented ServiceRequest.java to represent student service requests.
+- Tested queue operations including enqueue and dequeue.
+- Tested stack operations including push, pop, peek, and display.
 
 **Member 3**
 Name: [Name]
