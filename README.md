@@ -101,6 +101,20 @@ java Main
 - **Responsibility:** Stack and queue implementation
 - **Contribution:** Reviewed and tested `ActionStack.java` for recent system actions using LIFO, reviewed and tested `ServiceQueue.java` for student service requests using FIFO, and reviewed `ServiceRequest.java` for representing service requests. Tested queue enqueue/dequeue and stack push/pop/peek/display operations.
 
+### Member 3
+
+* **Name:** M.N.M. Afrath
+* **Student ID:** (his student ID)
+* **Responsibility:** Binary Search Tree and hashing implementation
+* **Contribution:** Implemented `StudentBST.java` for ordered student lookup by ID and `HashTable.java` (with chaining) for fast student ID search, including insert, search and display operations.
+
+### Member 4
+
+* **Name:** N.M. Askan
+* **Student ID:** (his student ID)
+* **Responsibility:** Campus graph and BFS implementation
+* **Contribution:** Implemented `CampusGraph.java` with an adjacency list for campus locations and roads, including add/remove location, add/remove road, display connections and BFS traversal.
+
 ## GitHub Collaboration
 
 Each member developed their assigned module on a dedicated feature branch:
