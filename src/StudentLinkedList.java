@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Manages student records using a singly linked list.
+ * Supports adding, searching, updating, deleting, and displaying students.
+ */
 /**
  * A custom singly linked list used as the primary storage for Student records.
  * Owned by: Member 1 (Student Records + Linked List)

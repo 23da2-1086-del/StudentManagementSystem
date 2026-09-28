@@ -2,6 +2,9 @@
  * Represents a single university student record.
  * Owned by: Member 1 (Student Records + Linked List)
  */
+/**
+ * Stores the student's ID, name, programme, and marks.
+ */
 public class Student {
     private String studentId;
     private String name;
