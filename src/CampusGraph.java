@@ -20,6 +20,11 @@ import java.util.Set;
  * requirements of the assignment, and keeping the graph itself simple
  * makes it easier for Member 4 to explain during the demo.
  */
+/**
+ * Author: N.M. Askan (Member 4)
+ * Student ID: (his student ID)
+ * Description: Campus graph (adjacency list) with BFS traversal
+ */
 public class CampusGraph {
 
     private final Map<String, List<String>> adjacencyList;
