@@ -94,6 +94,12 @@ java Main
 * **Responsibility:** Student records and linked list implementation
 * **Contribution:** Implemented the `Student` class and developed the singly linked list for adding, searching, updating, deleting, and displaying student records.
 
+### Member 2
+
+- **Name:** M.S.M. Saneej
+- **Student ID:** 23DA2-0962
+- **Responsibility:** Stack and queue implementation
+- **Contribution:** Reviewed and tested `ActionStack.java` for recent system actions using LIFO, reviewed and tested `ServiceQueue.java` for student service requests using FIFO, and reviewed `ServiceRequest.java` for representing service requests. Tested queue enqueue/dequeue and stack push/pop/peek/display operations.
 
 ## GitHub Collaboration
 
